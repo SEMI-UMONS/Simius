@@ -1,6 +1,6 @@
 # SEMi — Electronics & Microélectronics #
 
- Electronics & microelectronics services at University of Mons [UMONS] Belgium
+ Electronics & Microelectronics Unit at the University of Mons [UMONS] Belgium
 
 ----------
 On this site, we try to provide as many examples and documentation as possible so that each student who wishes to carry out a personal project or for the community, has everything in hand to be able to start in good conditions, because some examples have already been performed to test sensors or peripherals. 

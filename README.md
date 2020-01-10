@@ -1,4 +1,4 @@
-# SEMi — Electronics & Microélectronics #
+# SEMi — Electronics & Microelectronics #
 
  Electronics & Microelectronics Unit at the University of Mons [UMONS] Belgium
 
@@ -8,8 +8,8 @@ On this site, we try to provide as many examples and documentation as possible s
 
 ## Repository Contents ##
 * /examples —  Example sketch for PIC 16F887 or 18F4550.
-* /Projet — Various basic project or student project.
-* /Documents —  All documentation related to examples or projects.
+* /Projects — Various basic project or student project.
+* /Docs —  All documentation related to examples or projects.
 
 ## Documentations ##
 * Documentation for Modules and interfaces.

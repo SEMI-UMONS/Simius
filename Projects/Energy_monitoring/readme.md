@@ -8,12 +8,11 @@ This project is based on the Grove current measure module. An interface has been
 
 ### Interface Grove:
 
-<img src="./Docs/int_grove2.jpg" alt="Interface Grove" height="350" width="350">
-<img src="./Docs/int_grove.jpg" alt="Interface Grove" height="200" width="300"> 
+<img src="./Docs/int_grove2.jpg" alt="Interface Grove" height="350" width="350"/> <img src="./Docs/int_grove.jpg" alt="Interface Grove" height="200" width="300"/> 
 
 ### Interface Grove connected to the Simius:
 
-<img src="./Docs/Simius_grove.jpg" alt="Simius and Interface Grove" height="400" width="600">
+<img src="./Docs/Simius_grove.jpg" alt="Simius and Interface Grove" height="400" width="600"/>
 
 
 
